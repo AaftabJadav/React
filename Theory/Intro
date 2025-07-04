@@ -1,0 +1,16 @@
+Question 1: What is JSX in React.js? Why is it used? 
+ans:-
+     - JSX ( Javascript xml )  is a syntax extension for used html in java script .
+
+
+Question 2: How is JSX different from regular JavaScript? Can you write JavaScript inside
+JSX?
+ans:-
+    - we can use html in  java script using JSX , but it is not in regular JavaScript . and YES we can write javascript inside JSx
+
+
+Question 3: Discuss the importance of using curly braces {} in JSX expressions
+ans:- 
+    - Curly braces {} in JSX are used to embed JavaScript expressions inside the JSX code.
+and used to access a variable and functions
+
