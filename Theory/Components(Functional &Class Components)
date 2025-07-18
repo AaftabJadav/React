@@ -1,1 +1,27 @@
-q
+Question 1: What are components in React? Explain the difference between functional
+components and class components.
+ANS :- The components is a  reusable and its a Building blocks in react
+     - There are two types of components In react :-
+
+     * 1. functional Component :-
+- functional component is a simple java script function and accept the props as an argument and retrun a jsx (react elements)
+
+     - 2. Class Component :-
+- Class components is extents a react.compontns and use a render method to return a JSX
+
+
+Question 2: How do you pass data to a component using props?
+ANS:- STEP 1 : Pass the props in parent components
+    - EXAMPLE : <PropsExa myname="aaftab">
+
+    - STEP 2 : RECIEVE PROPS IN CHILD COMPONENTS
+    - EXAMPLE : FILE NAME IS : PropsExa
+function PropsExa (props) {
+                  return(
+   <h3>My name is {props.myname}</h3>
+                  )
+}
+
+Question 3: What is the role of render() in class components?
+ANS:- In class components of React the render() method is a special function that is used to return JSX
+
