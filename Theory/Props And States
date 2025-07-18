@@ -1,0 +1,9 @@
+Question 1: What are props in React.js? How are props different from state?
+ANS :-
+Props :- props is used to sending a data to one compnent ( parent component ) to another component ( child component ) in React.js
+       - props is immutable , you can not change the data in props 
+       -  props stand for " Properties "
+
+Diffrents from state :-
+      - state in changeble and mutable but props can not changeblea and its a immutable
+      - props is used to read only data but state is 
