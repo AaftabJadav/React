@@ -23,5 +23,7 @@ function PropsExa (props) {
 }
 
 Question 3: What is the role of render() in class components?
-ANS:- In class components of React the render() method is a special function that is used to return JSX
+ANS:- In class components of React the render() method is a special function that is used to return JSX  and display a output in screen
+
+
 
