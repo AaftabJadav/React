@@ -7,3 +7,10 @@ Props :- props is used to sending a data to one compnent ( parent component ) to
 Diffrents from state :-
       - state in changeble and mutable but props can not changeblea and its a immutable
       - props is used to read only data but state is 
+
+Question 2: Explain the concept of state in React and how it is used to manage component
+data.
+ANS :- - props use to sendding a data to one component to another compponent 
+       -  props is immutable
+       - state is java script onbject and use to manage a data in commpponnt and change the data in one compponent 
+- 
